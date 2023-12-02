@@ -1,0 +1,1 @@
+List of notes and code shortcuts AZURE DP-203
